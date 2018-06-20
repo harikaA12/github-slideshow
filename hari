@@ -1,6 +1,2 @@
-echo "# test" >> TEST.md
-git init
-git add TEST.md
-git commit -m "first commit"
-git remote add origin https://github.com/harikaA12/demo.git
-git push -u origin master
+## Hello
+### welcome
